@@ -18,7 +18,6 @@ Usage
 
     Open your terminal or command prompt, navigate to the directory where the script is located, and run the script using Python.
 
-    bash
 
     python hangman.py
 
@@ -32,20 +31,15 @@ Example
 
 When you start the game, you might see something like this:
 
-less
-
 Current word: _ _ _ _ _
 Write a letter: a
 
 If 'a' is in the word, it will be revealed:
 
-arduino
 
 Current word: _ a _ _ _
 
 If 'a' is not in the word, you will lose a life:
-
-css
 
 Uhoh, you have 9 lives left
 
